@@ -3,7 +3,7 @@
 [doodle]: https://www.google.com/logos/doodles/2015/holidays-2015-day-3-6399865393250304-hp2x.jpg "春节快乐!"
 [doodle-story]: https://www.google.com.hk/search?q=%E6%98%A5%E8%8A%82
 
-> 使用本项目前，请先阅读 [README](README.md) 和 [License](#license)
+> 使用本项目前，请先阅读 [README](README.md) 和 [License](#license) - 此项目已经永久停更！留着做个纪念而已
 
 |   [Gitter聊天室][chat-room]   |      [Telegram群][telegram-group]      |   [hosts自动生成][travis-status]    | [镜像hosts][mirror_of_hosts] | [常见问题解答][faq] |
 |             :---:             |                 :---:                  |                :---:                |            :---:             |        :---:        |
