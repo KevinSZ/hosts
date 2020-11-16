@@ -21,7 +21,7 @@
 [faq-icon]: http://www.easyicon.net/api/resizeApi.php?id=1190784&size=48
 [faq]: https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
 
-## 更新 hosts
+## 该fork已停更
 #### 推荐使用项目内提供的 [应用/工具](tools) 来自动获取最新 hosts 文件，以下简单介绍手动替换 hosts 的步骤
 
 ### Windows
